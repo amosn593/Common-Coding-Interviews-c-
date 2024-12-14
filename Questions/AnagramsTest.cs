@@ -22,7 +22,6 @@ public static class CheckIfTwoStringsAreAnagrams
         }
 
         //Create two dictionaries
-        // Create a Dictionary
         Dictionary<char, int> dict1 = [];
         Dictionary<char, int> dict2 = [];
 
