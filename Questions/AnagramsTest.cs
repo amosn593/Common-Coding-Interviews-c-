@@ -1,6 +1,6 @@
 namespace InterviewQuestion.Question;
 
-public static class CheckIfTwoStringsAreAnagrams
+public static class AnagramsTest
 {
     /*
     Two strings are anagrams if they have same length, and same characters with same frequend
@@ -13,7 +13,7 @@ public static class CheckIfTwoStringsAreAnagrams
     
     */
 
-    public static bool Check(string String1, string String2)
+    public static bool CheckIfTwoStringsAreAnagrams(string String1, string String2)
     {
         //Check if have same length
         if(String1.Length != String2.Length)

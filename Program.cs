@@ -4,7 +4,7 @@ using InterviewQuestion.Question;
 Console.WriteLine("Hello, World!");
 
 // 1. Check if two strings are anagram
-var result = CheckIfTwoStringsAreAnagrams.Check("danger", "garden1");
+var result = AnagramsTest.CheckIfTwoStringsAreAnagrams("danger", "garden1");
 
 Console.WriteLine(result);
 
