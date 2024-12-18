@@ -1,10 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using InterviewQuestion.Question;
+using InterviewQuestions.Questions;
 
 Console.WriteLine("Hello, World!");
 
 // 1. Check if two strings are anagram
-var result = AnagramsTest.CheckIfTwoStringsAreAnagrams("danger", "garden1");
+var result = AnagramsTest.CheckIfTwoStringsAreAnagrams("danger", "garden");
 
 Console.WriteLine(result);
 

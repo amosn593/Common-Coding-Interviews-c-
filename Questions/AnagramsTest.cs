@@ -1,4 +1,4 @@
-namespace InterviewQuestion.Question;
+namespace InterviewQuestions.Questions;
 
 public static class AnagramsTest
 {
