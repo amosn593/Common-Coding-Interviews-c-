@@ -19,11 +19,14 @@ using InterviewQuestions.Questions;
 // Console.WriteLine(string.Join(", ", result3));
 
 //3. Find KthLargest Element
-var result4 = FindKthLargestElementInAnArray.TestCase([4,2,9,7,5,6,7,1,3],4);
-var result5 = FindKthLargestElementInAnArray.TestCaseSorting([4,2,9,7,5,6,7,1,3],4);
+//var result4 = FindKthLargestElementInAnArray.TestCase([4,2,9,7,5,6,7,1,3],4);
+//var result5 = FindKthLargestElementInAnArray.TestCaseSorting([4,2,9,7,5,6,7,1,3],4);
 
+//Console.WriteLine(result4);
+//Console.WriteLine(result5);
+
+//4. Smallest Interger not preset in an array
+var result4 = SmallestIntergerNotPresent.Solution([1, 3, 6, 4, 1, 2]);
 Console.WriteLine(result4);
-Console.WriteLine(result5);
-
 
 //Console.ReadLine();

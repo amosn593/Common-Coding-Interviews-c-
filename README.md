@@ -16,4 +16,10 @@ Outputs [2,4]`
 `[1,2,4,6,9,11], 4
 Outputs, 4`
 
-### 4. Give a binary tree, check if its symmetrical around its center
+### 4.Find Smallest Integer not present in a array
+
+`
+For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.
+
+`
+### 5. Give a binary tree, check if its symmetrical around its center
