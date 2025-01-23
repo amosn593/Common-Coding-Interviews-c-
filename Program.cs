@@ -26,7 +26,11 @@ using InterviewQuestions.Questions;
 //Console.WriteLine(result5);
 
 //4. Smallest Interger not preset in an array
-var result4 = SmallestIntergerNotPresent.Solution([1, 3, 6, 4, 1, 2]);
-Console.WriteLine(result4);
+//var result4 = SmallestIntergerNotPresent.Solution([1, 3, 6, 4, 1, 2]);
+//Console.WriteLine(result4);
+
+//NumericQuestions.OldOrEvenNumber(5);
+//NumericQuestions.OldOrEvenNumber(6);
+NumericQuestions.TestPrimeNumber(6);
 
 //Console.ReadLine();
