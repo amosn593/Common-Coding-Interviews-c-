@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using InterviewQuestions;
 using InterviewQuestions.Questions;
 
 //Console.WriteLine("Hello, World!");
@@ -31,6 +32,9 @@ using InterviewQuestions.Questions;
 
 //NumericQuestions.OldOrEvenNumber(5);
 //NumericQuestions.OldOrEvenNumber(6);
-NumericQuestions.TestPrimeNumber(6);
+//NumericQuestions.TestPrimeNumber(6);
 
-//Console.ReadLine();
+// Andela Test;
+await RunTests.Andela();
+
+Console.ReadLine();
